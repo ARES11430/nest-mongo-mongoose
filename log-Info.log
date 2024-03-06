@@ -1,0 +1,32 @@
+{"level":"info","message":"server is running on port 5000","timestamp":"2024-03-05T17:06:30.777Z"}
+{"level":"info","message":"server is running on port 5000","timestamp":"2024-03-05T17:07:45.293Z"}
+{"level":"info","message":"server is running on port 5000","timestamp":"2024-03-05T17:07:47.341Z"}
+{"level":"info","message":"server is running on port 5000","timestamp":"2024-03-05T17:08:02.215Z"}
+{"level":"info","message":"server is running on port 5000","timestamp":"2024-03-05T17:15:15.155Z"}
+{"level":"info","message":"server is running on port 5000","timestamp":"2024-03-05T17:16:20.320Z"}
+{"_message":"User validation failed","errors":{"username":{"kind":"required","message":"Path `username` is required.","name":"ValidatorError","path":"username","properties":{"message":"Path `username` is required.","path":"username","type":"required"}}},"level":"error","timestamp":"2024-03-05T17:16:28.758Z"}
+{"_message":"User validation failed","errors":{"username":{"kind":"required","message":"Path `username` is required.","name":"ValidatorError","path":"username","properties":{"message":"Path `username` is required.","path":"username","type":"required"}}},"level":"error","timestamp":"2024-03-05T17:16:28.818Z"}
+{"level":"info","message":"server is running on port 5000","timestamp":"2024-03-05T17:17:21.992Z"}
+{"_message":"User validation failed","errors":{"username":{"kind":"required","message":"Path `username` is required.","name":"ValidatorError","path":"username","properties":{"message":"Path `username` is required.","path":"username","type":"required"}}},"level":"error","timestamp":"2024-03-05T17:17:27.483Z"}
+{"level":"info","message":"server is running on port 5000","timestamp":"2024-03-05T17:18:56.656Z"}
+{"_message":"User validation failed","errors":{"username":{"kind":"required","message":"Path `username` is required.","name":"ValidatorError","path":"username","properties":{"message":"Path `username` is required.","path":"username","type":"required"}}},"level":"error","timestamp":"2024-03-05T17:18:58.777Z"}
+{"level":"info","message":"server is running on port 5000","timestamp":"2024-03-05T17:22:21.946Z"}
+{"level":"info","message":"server is running on port 5000","timestamp":"2024-03-05T17:22:40.909Z"}
+{"level":"info","message":"server is running on port 5000","timestamp":"2024-03-05T17:22:47.825Z"}
+{"level":"info","message":"server is running on port 5000","timestamp":"2024-03-05T17:22:53.684Z"}
+{"level":"info","message":"server is running on port 5000","timestamp":"2024-03-05T17:24:13.784Z"}
+{"level":"info","message":"server is running on port 5000","timestamp":"2024-03-05T17:25:09.149Z"}
+{"level":"info","message":"server is running on port 5000","timestamp":"2024-03-05T17:26:52.744Z"}
+{"level":"info","message":"server is running on port 5000","timestamp":"2024-03-05T17:27:02.511Z"}
+{"level":"info","message":"server is running on port 5000","timestamp":"2024-03-05T17:28:55.716Z"}
+{"level":"info","message":"server is running on port 5000","timestamp":"2024-03-05T17:33:46.978Z"}
+{"level":"info","message":"server is running on port 5000","timestamp":"2024-03-05T17:34:56.524Z"}
+{"level":"info","message":"server is running on port 5000","timestamp":"2024-03-05T17:35:58.868Z"}
+{"level":"info","message":"server is running on port 5000","timestamp":"2024-03-05T20:51:37.577Z"}
+{"level":"info","message":"server is running on port 5000","timestamp":"2024-03-05T20:51:40.342Z"}
+{"level":"info","message":"server is running on port 5000","timestamp":"2024-03-05T20:52:05.629Z"}
+{"level":"info","message":"server is running on port 5000","timestamp":"2024-03-05T20:52:09.256Z"}
+{"level":"info","message":"server is running on port 5000","timestamp":"2024-03-06T08:57:42.521Z"}
+{"level":"info","message":"server is running on port 5000","timestamp":"2024-03-06T08:59:38.184Z"}
+{"level":"info","message":"user created","timestamp":"2024-03-06T09:00:16.364Z"}
+{"level":"info","message":"server is running on port 5000","timestamp":"2024-03-06T09:00:47.848Z"}
